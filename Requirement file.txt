@@ -1,0 +1,11 @@
+Requirements for running this file is:
+1. Python Compiler
+2. It is user-friendly, i.e., this particular file can be run on any sort of environment supporting python.
+3. SQL Lite is also going to be needed here to maintain the database.
+
+Steps to operate Ristorante Bill Application:
+1. Run the source code. A tkinter window will open where user will be presented with the billing interface.
+2. Here, the user can select the check box right next to the dish which the customer orders and they can also refer to the prices as well. 
+3. User will then enter the number of units dish were ordered. 
+4. After all the ordered dishes are checked the user can click on the button and the total with and without GsT will be displayed.
+5. After clicking the receipt button, the order bill will be generated.
